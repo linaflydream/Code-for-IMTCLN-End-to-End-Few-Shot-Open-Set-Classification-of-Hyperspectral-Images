@@ -1,0 +1,22 @@
+{
+    "data_path": "data/indian.mat",
+    "label_path": "data/label.mat",
+    "num_class": 15,
+    "m1": 145,
+    "m2": 145,
+    "d": 30,
+    "Ni": 5,
+    "kw": 10,
+    "km": 10,
+    "S": 5,
+    "SS": 5,
+    "epochs": 500,
+    "batch_size": 200,
+    "learning_rate": 8e-05,
+    "mask_prob": 0.5,
+    "ww_path": "ww.npy",
+    "nei_w_path": "nei_w.npy",
+    "nei_b_path": "nei_b.npy",
+    "num_experiments": 5,
+    "eval_interval": 5
+}
